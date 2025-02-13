@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+
+}
+header{
+    background-color: #403e4a  ;
+    text-align: center;
+    padding: 5px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+ 
+}
+main{
+   background-color:#151232;
+    padding: 10px;
+    height: 100vh;
+    display: auto;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    margin: 5px;
+}
+.james{
+    background-color:#312c62 ;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.mark{
+    background-color: #46417c ;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.nino{
+    background-color:  #605c8f;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+    
+}
+footer{
+    background-color: #58566e ;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    text-align: center;
+}
